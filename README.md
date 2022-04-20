@@ -1,2 +1,2 @@
-# energinet-ospo
-Energinet Open Source Program Office (OSPO)
+# energinet-osi
+Energinet Open Source Initiative (OSI)
